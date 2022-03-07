@@ -1,0 +1,4 @@
+enter the first string :programming
+enter the second string :lab
+the strings are :  programming   lab
+after swapping the strings : lrogramming  pab
